@@ -9,4 +9,4 @@ Paquetes necesarios:
   -update-database
     "en caso de fallo,remover migraciones: ejecutar" > remove-migration
  
-olivio subelza cabezas
+olivio
