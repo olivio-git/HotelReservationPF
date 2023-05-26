@@ -8,4 +8,5 @@ Paquetes necesarios:
   -add-migration "Migracion"
   -update-database
     "en caso de fallo,remover migraciones: ejecutar" > remove-migration
+    //test
  

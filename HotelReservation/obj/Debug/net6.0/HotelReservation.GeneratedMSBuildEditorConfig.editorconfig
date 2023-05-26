@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HotelReservation
 build_property.RootNamespace = HotelReservation
-build_property.ProjectDir = D:\MATERIAS\DESARROLLO DE SISTEMAS II\HotelReservation\HotelReservation\
+build_property.ProjectDir = D:\MATERIAS\DESARROLLO DE SISTEMAS II\clon\HotelReservationPF\HotelReservation\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\MATERIAS\DESARROLLO DE SISTEMAS II\HotelReservation\HotelReservation
+build_property.MSBuildProjectDirectory = D:\MATERIAS\DESARROLLO DE SISTEMAS II\clon\HotelReservationPF\HotelReservation
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/HotelReservation/HotelReservation/Views/Habitacions/Create.cshtml]
+[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Habitacions/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvbnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/HotelReservation/HotelReservation/Views/Habitacions/Delete.cshtml]
+[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Habitacions/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvbnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/HotelReservation/HotelReservation/Views/Habitacions/Details.cshtml]
+[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Habitacions/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvbnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/HotelReservation/HotelReservation/Views/Habitacions/Edit.cshtml]
+[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Habitacions/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvbnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/HotelReservation/HotelReservation/Views/Habitacions/Index.cshtml]
+[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Habitacions/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvbnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/HotelReservation/HotelReservation/Views/Home/Index.cshtml]
+[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/HotelReservation/HotelReservation/Views/Home/Privacy.cshtml]
+[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/HotelReservation/HotelReservation/Views/Shared/Error.cshtml]
+[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/HotelReservation/HotelReservation/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/HotelReservation/HotelReservation/Views/_ViewImports.cshtml]
+[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/HotelReservation/HotelReservation/Views/_ViewStart.cshtml]
+[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/HotelReservation/HotelReservation/Views/Shared/_Layout.cshtml]
+[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-44whd80hbb

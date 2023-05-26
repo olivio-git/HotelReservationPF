@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\HotelReservation\\HotelReservation\\HotelReservation.csproj": {}
+    "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj": {}
   },
   "projects": {
-    "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\HotelReservation\\HotelReservation\\HotelReservation.csproj": {
+    "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\HotelReservation\\HotelReservation\\HotelReservation.csproj",
+        "projectUniqueName": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj",
         "projectName": "HotelReservation",
-        "projectPath": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\HotelReservation\\HotelReservation\\HotelReservation.csproj",
+        "projectPath": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj",
         "packagesPath": "C:\\Users\\celta\\.nuget\\packages\\",
-        "outputPath": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\HotelReservation\\HotelReservation\\obj\\",
+        "outputPath": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

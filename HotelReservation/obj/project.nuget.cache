@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UXHPnZ0XgHaxhWyrqrAzvk5aoUl+zYSAYk23y7vrIiREZWjkfmthQcBsjptzNV87mZ6GCFNAx5BrrdGlyiYyxg==",
+  "dgSpecHash": "sN8iSPV7OodcbgmLTiR0zYRrgafkfyc2jo1gaFiWdknGQVe6Ghz5nyk/+Y1s8lRZFJA5EXYxCdsGBLwAYhcfPQ==",
   "success": true,
-  "projectFilePath": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\HotelReservation\\HotelReservation\\HotelReservation.csproj",
+  "projectFilePath": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\celta\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\celta\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
