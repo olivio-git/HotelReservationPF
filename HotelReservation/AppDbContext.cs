@@ -14,6 +14,12 @@ namespace HotelReservation
         public DbSet<Rol> Roles { get; set; }
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Persona> Personas { get; set; }
+        public DbSet<Promocion> Promociones { get; set; }
+        public DbSet<PromocionReserva> PromocionReservas { get; set; }
+        public DbSet<Recibo> Recibos { get; set; }
+        public DbSet<Reserva> Reservas  { get; set; }
+        public DbSet<Servicio> Servicios { get; set; }
+        public DbSet<ServicioHabitacion> ServicioHabitaciones { get; set; }
 
     }
 }
