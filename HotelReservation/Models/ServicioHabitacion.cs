@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Reflection.Metadata.Ecma335;
 
 namespace HotelReservation.Models
 {
@@ -14,5 +15,11 @@ namespace HotelReservation.Models
         public int Idservicio { get; set; }
         [ForeignKey("Idservicio")]
         public Servicio Servicio { get; set; }
+
+        [Required(ErrorMessage = "El campo Idtipo es obligatorio.")]
+        [DisplayName("Idtipo")]
+        public int Idtipo { get; set; }
+        [ForeignKey("Idtipo")]
+        public Tipo tipo { get; set; }
     }
 }
