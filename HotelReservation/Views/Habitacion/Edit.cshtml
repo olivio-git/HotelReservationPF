@@ -1,0 +1,72 @@
+﻿@model HotelReservation.Models.Habitacion
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Editar</h1>
+
+<h4>Habitacion</h4>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form method="post" asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Codigo" class="control-label"></label>
+                <input asp-for="Codigo" class="form-control" />
+                <span asp-validation-for="Codigo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IMGarchivo" class="control-label" enctype="multipart/form-data"></label>
+                <input asp-for="IMGarchivo" class="form-control" onchange="previewImage(this)" type="file" accept="image/*" />
+                <span asp-validation-for="IMGarchivo" class="text-danger"></span>
+                @{/*<label asp-for="Imagen" class="control-label"></label>
+                <input asp-for="Imagen" class="form-control" />
+                <span asp-validation-for="Imagen" class="text-danger"></span>*/}
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Estado" /> @Html.DisplayNameFor(model => model.Estado)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Calificacion" class="control-label"></label>
+                <input asp-for="Calificacion" class="form-control" />
+                <span asp-validation-for="Calificacion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Idtipo" class="control-label"></label>
+                <select asp-for="Idtipo" class="form-control" asp-items="ViewBag.Idtipo"></select>
+                <span asp-validation-for="Idtipo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+        </form>
+        <script>
+            function previewImage(input) {
+                if (input.files && input.files[0]) {
+                    var reader = new FileReader();
+                    reader.onload = function (e) {
+                        $('#imagePreview').attr('src', e.target.result);
+                    }
+                    reader.readAsDataURL(input.files[0]);
+                }
+            }
+        </script>
+    </div>
+    <div class="col-md-6">
+        <div class="form-group">
+            <img id="imagePreview" src="@("~/imagenes/"+Model.Imagen)" asp-append-version="true" alt="Vista previa de la imagen" style="max-width:400px; max-height:200px; object-fit:contain;" />
+        </div>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-info">Regresar</a>
+</div>
+
+
