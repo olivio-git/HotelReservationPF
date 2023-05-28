@@ -23,5 +23,8 @@ namespace HotelReservation.Models
         public int Idtipo { get; set; }
         [ForeignKey("Idtipo")]
         public Tipo tipo { get; set; }
+        [NotMapped]
+        [Display(Name = "Imagen")]
+        public IFormFile IMGarchivo { get; set; }
     }
 }
