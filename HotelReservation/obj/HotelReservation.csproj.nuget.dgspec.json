@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/olivio-gits/SistemasDeInformacion2/olivio/HotelReservationPF/HotelReservation/HotelReservation.csproj": {}
+    "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj": {}
   },
   "projects": {
-    "/home/olivio-gits/SistemasDeInformacion2/olivio/HotelReservationPF/HotelReservation/HotelReservation.csproj": {
+    "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/olivio-gits/SistemasDeInformacion2/olivio/HotelReservationPF/HotelReservation/HotelReservation.csproj",
+        "projectUniqueName": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj",
         "projectName": "HotelReservation",
-        "projectPath": "/home/olivio-gits/SistemasDeInformacion2/olivio/HotelReservationPF/HotelReservation/HotelReservation.csproj",
-        "packagesPath": "/home/olivio-gits/.nuget/packages/",
-        "outputPath": "/home/olivio-gits/SistemasDeInformacion2/olivio/HotelReservationPF/HotelReservation/obj/",
+        "projectPath": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj",
+        "packagesPath": "C:\\Users\\celta\\.nuget\\packages\\",
+        "outputPath": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/olivio-gits/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\celta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,16 +66,11 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -77,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
