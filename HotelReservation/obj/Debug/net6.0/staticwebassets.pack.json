@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\HotelReservation.bundle.scp.css"
     },
     {
+      "Id": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\wwwroot\\css\\landing.css",
+      "PackagePath": "staticwebassets\\css\\landing.css"
+    },
+    {
       "Id": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -31,6 +35,10 @@
     {
       "Id": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\wwwroot\\imagenes\\erroryoutube232147761.png",
       "PackagePath": "staticwebassets\\imagenes\\erroryoutube232147761.png"
+    },
+    {
+      "Id": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\wwwroot\\imagenes\\landingOne.png",
+      "PackagePath": "staticwebassets\\imagenes\\landingOne.png"
     },
     {
       "Id": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\wwwroot\\js\\site.js",
