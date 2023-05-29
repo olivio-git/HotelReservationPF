@@ -22,9 +22,23 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+app.UseEndpoints(endpoints =>
+    { 
+        endpoints.MapControllerRoute(
+            name: "default",
+            pattern: "{controller=Home}/{action=Index}/{id?}");
+ 
+        endpoints.MapControllerRoute(
+            name: "home",
+            pattern: "{controller=Home}/{action=HomePage}/{id?}");
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+        // endpoints.MapControllerRoute(
+        //     name: "home",
+        //     pattern: "{controller=Account}/{action=Login}/{username}/{password}");
+
+        // endpoints.MapControllerRoute(
+        //     name: "register", 
+        //     pattern: "{controller=Account}/{action=Register}/{username}/{email}/{password}")
+}); 
 
 app.Run();

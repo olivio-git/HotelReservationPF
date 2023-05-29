@@ -1,8 +1,22 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutLandingPage.cshtml";
+    ViewData["Title"] = "Landing Page";
 }
-
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+@* <a class="btn btn-primary" asp-area="" asp-controller="Home" asp-action="HomePage">Home</a> *@
+<div class="bg-landing">
+    <div class="row bg-title">
+        <div class="col-12 brd">
+            <h1>AHANA</h1>
+        </div>
+    </div> 
+    <div class="row bg-content">
+        <div class="col-6 letters-container">
+            <h1>The best service at your availability</h1>
+            <p>Discover and book the perfect hotel for your next adventure. Make your travel dreams come true with us!</p>
+            <button class="btn btn-primary">Get Started</button>
+        </div>
+        <div class="col-6 img-container">
+            <img src="~/imagenes/landingOne.png" alt="">
+        </div>
+    </div>
+</div> 
