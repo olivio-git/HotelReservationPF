@@ -1,0 +1,42 @@
+﻿@model IEnumerable<HotelReservation.Models.PromocionReserva>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Agregar</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Promocion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Reserva)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Promocion.Titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Reserva.Id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-secondary">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

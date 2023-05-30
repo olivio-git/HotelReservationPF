@@ -1,0 +1,40 @@
+﻿@model HotelReservation.Models.PromocionReserva
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Editar</h1>
+
+<h4>PromocionReserva</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Idpromocion" class="control-label"></label>
+                <select asp-for="Idpromocion" class="form-control" asp-items="ViewBag.Idpromocion"></select>
+                <span asp-validation-for="Idpromocion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Idreserva" class="control-label"></label>
+                <select asp-for="Idreserva" class="form-control" asp-items="ViewBag.Idreserva"></select>
+                <span asp-validation-for="Idreserva" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-info">Regresar</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
