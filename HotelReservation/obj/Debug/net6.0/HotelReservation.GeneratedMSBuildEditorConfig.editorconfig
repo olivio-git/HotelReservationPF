@@ -5,269 +5,276 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HotelReservation
 build_property.RootNamespace = HotelReservation
-build_property.ProjectDir = D:\MATERIAS\DESARROLLO DE SISTEMAS II\clon\HotelReservationPF\HotelReservation\
+build_property.ProjectDir = /home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\MATERIAS\DESARROLLO DE SISTEMAS II\clon\HotelReservationPF\HotelReservation
+build_property.MSBuildProjectDirectory = /home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Habitacion/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvblxDcmVhdGUuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Habitacion/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGFiaXRhY2lvbi9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Habitacion/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvblxEZWxldGUuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Habitacion/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGFiaXRhY2lvbi9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Habitacion/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvblxEZXRhaWxzLmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Habitacion/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGFiaXRhY2lvbi9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Habitacion/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvblxFZGl0LmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Habitacion/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGFiaXRhY2lvbi9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Habitacion/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvblxJbmRleC5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Habitacion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGFiaXRhY2lvbi9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Home/HomePage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lUGFnZS5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Home/HomePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Ib21lUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Persona/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxDcmVhdGUuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Login/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Persona/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxEZWxldGUuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Persona/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Persona/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxEZXRhaWxzLmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Persona/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYS9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Persona/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxFZGl0LmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Persona/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYS9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Persona/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxJbmRleC5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Persona/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYS9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/PromocionReserva/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uUmVzZXJ2YVxDcmVhdGUuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Persona/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/PromocionReserva/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uUmVzZXJ2YVxEZWxldGUuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Promocion/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvbW9jaW9uL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/PromocionReserva/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uUmVzZXJ2YVxEZXRhaWxzLmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Promocion/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvbW9jaW9uL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/PromocionReserva/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uUmVzZXJ2YVxFZGl0LmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Promocion/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvbW9jaW9uL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/PromocionReserva/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uUmVzZXJ2YVxJbmRleC5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Promocion/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvbW9jaW9uL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Promocion/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uXENyZWF0ZS5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Promocion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvbW9jaW9uL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Promocion/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uXERlbGV0ZS5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/PromocionReserva/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvbW9jaW9uUmVzZXJ2YS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Promocion/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uXERldGFpbHMuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/PromocionReserva/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvbW9jaW9uUmVzZXJ2YS9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Promocion/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uXEVkaXQuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/PromocionReserva/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvbW9jaW9uUmVzZXJ2YS9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Promocion/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uXEluZGV4LmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/PromocionReserva/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvbW9jaW9uUmVzZXJ2YS9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Recibo/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaWJvXENyZWF0ZS5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/PromocionReserva/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvbW9jaW9uUmVzZXJ2YS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Recibo/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaWJvXERlbGV0ZS5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Recibo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVjaWJvL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Recibo/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaWJvXERldGFpbHMuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Recibo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVjaWJvL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Recibo/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaWJvXEVkaXQuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Recibo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVjaWJvL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Recibo/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaWJvXEluZGV4LmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Recibo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVjaWJvL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Reserva/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxDcmVhdGUuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Recibo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVjaWJvL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Reserva/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxEZWxldGUuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Reserva/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Reserva/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxEZXRhaWxzLmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Reserva/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YS9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Reserva/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxFZGl0LmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Reserva/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YS9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Reserva/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxJbmRleC5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Reserva/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YS9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Rol/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXENyZWF0ZS5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Reserva/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Rol/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXERlbGV0ZS5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Rol/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9sL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Rol/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXERldGFpbHMuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Rol/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9sL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Rol/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXEVkaXQuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Rol/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9sL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Rol/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXEluZGV4LmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Rol/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9sL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9IYWJpdGFjaW9uc1xDcmVhdGUuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Rol/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9sL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9IYWJpdGFjaW9uc1xEZWxldGUuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Servicio/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljaW8vQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9IYWJpdGFjaW9uc1xEZXRhaWxzLmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Servicio/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljaW8vRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9IYWJpdGFjaW9uc1xFZGl0LmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Servicio/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljaW8vRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9IYWJpdGFjaW9uc1xJbmRleC5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Servicio/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljaW8vRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Servicio/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9cQ3JlYXRlLmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Servicio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljaW8vSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Servicio/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9cRGVsZXRlLmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljaW9IYWJpdGFjaW9ucy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Servicio/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9cRGV0YWlscy5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljaW9IYWJpdGFjaW9ucy9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Servicio/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9cRWRpdC5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljaW9IYWJpdGFjaW9ucy9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Servicio/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9cSW5kZXguY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljaW9IYWJpdGFjaW9ucy9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljaW9IYWJpdGFjaW9ucy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Shared/_LayoutLandingPage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMYW5kaW5nUGFnZS5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Shared/_LayoutLandingPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXRMYW5kaW5nUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Tipo/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xDcmVhdGUuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Shared/_LayoutRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXRSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Tipo/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xEZWxldGUuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Tipo/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xEZXRhaWxzLmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Tipo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwby9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Tipo/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xFZGl0LmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Tipo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwby9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Tipo/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xJbmRleC5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Tipo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwby9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Usuario/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhdGUuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Tipo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwby9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Usuario/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZWxldGUuY3NodG1s
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Tipo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwby9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Usuario/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZXRhaWxzLmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Usuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Usuario/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xFZGl0LmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Usuario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Usuario/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Usuario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Usuario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-44whd80hbb
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-87cgysjp1o

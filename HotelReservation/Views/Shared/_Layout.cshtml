@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -20,9 +22,11 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="HomePage">Home</a>
                         </li>
-                        <li class="nav-item">
+                        @if(!string.IsNullOrEmpty(GlobalVariables.StateGlobal) 
+                        && GlobalVariables.usuario.Idrol==1){
+                            <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                         <li class="nav-item">
@@ -58,17 +62,31 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Recibo" asp-action="Index">Recibos</a>
                         </li>
+                        }
                     </ul>
                 </div>
-            </div>
-        </nav>
-    </header>
+                <div id="loginContainer">
+                     @if (!string.IsNullOrEmpty(GlobalVariables.StateGlobal))
+                    {
+                        <p>Bienvenido, @GlobalVariables.usuario.Correo</p>
+                         <a asp-area=""
+                            asp-controller="Login"
+                            asp-action="DeleteSession"
+                            class="btn btn-primary">Cerrar Sesion</a>
+                    }
+                    else
+                    {
+                        <a asp-area="" asp-controller="Login" asp-action="Create" class="btn btn-primary">Login</a>
+                    }
+                </div>
+        </div>
+    </nav>
+</header>
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
-
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2023 - HotelReservation - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
@@ -77,6 +95,11 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script>
+        
+    </script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
+
+                    @* <a asp-area="" asp-controller="Usuario" asp-action="Create" class="btn btn-primary">Registrar</a>  *@
