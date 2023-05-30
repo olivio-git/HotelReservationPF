@@ -42,7 +42,11 @@ namespace HotelReservation.Controllers
             {
                 return NotFound();
             }
-
+            var data = await _context.Habitaciones.Include(x => x.tipo).FirstOrDefaultAsync(y=>y.Id == id);
+            if (data != null)
+            {
+                ViewData["lista"] = _context.ServicioHabitaciones.Include(x => x.Servicio).Where(y=>y.tipo.Id == data.tipo.Id).Where(z=>z.Estado == true);
+            }
             return View(habitacion);
         }
 
