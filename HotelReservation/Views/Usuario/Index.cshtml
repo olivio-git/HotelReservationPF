@@ -1,0 +1,67 @@
+﻿@model IEnumerable<HotelReservation.Models.Usuario>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Agregar</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Correo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Contrasena)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Imagen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReservaExitosa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Persona)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rol)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Correo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Contrasena)
+                </td>
+                <td>
+                    <img src="@("~/imagenes/"+item.Imagen)" asp-append-version="true" width="50px" height="50px" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ReservaExitosa)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Persona.Apellido)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Rol.Nombre)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-secondary">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Detalles</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

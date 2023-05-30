@@ -30,6 +30,9 @@ namespace HotelReservation.Models
         public int Idrol { get; set; }
         [ForeignKey("Idrol")]
         public Rol Rol { get; set; }
+        [NotMapped]
+        [Display(Name = "Imagen")]
+        public IFormFile IMGarchivo { get; set; }
     }
 
 }
