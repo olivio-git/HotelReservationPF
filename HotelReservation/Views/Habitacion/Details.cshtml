@@ -6,8 +6,7 @@
 }
 
 <h1>Detalles</h1>
-
-<div>
+    <div>
     <h4>Habitacion</h4>
     <hr />
     <dl class="row">
@@ -21,9 +20,6 @@
             @Html.DisplayNameFor(model => model.Imagen)
         </dt>
         <dd class = "col-sm-10">
-            @{
-                /*@Html.DisplayFor(model => model.Imagen)*/
-            }
             <img src="@("~/imagenes/"+Model.Imagen)" asp-append-version="true" width="100"/>
         </dd>
         <dt class = "col-sm-2">
@@ -43,6 +39,17 @@
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.tipo.Nombre)
+        </dd>
+        <dt class="col-sm-2">Servicios</dt>
+        <dd class="col-sm-10">
+            <ul >
+                @{
+                    foreach (var item in ViewBag.lista)
+                    {
+                        <li >@item.Servicio.Nombre</li>
+                    }
+                }
+            </ul>
         </dd>
     </dl>
 </div>
