@@ -37,7 +37,7 @@ namespace HotelReservation.Controllers
             {
                 return NotFound();
             }
-
+            //ViewData["precio"] = _context.Reservas.Include(x => x.Habitacion.tipo).Sum(x=>x.Habitacion.tipo.Precio);
             return View(recibo);
         }
         public IActionResult Create()

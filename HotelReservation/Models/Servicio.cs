@@ -18,6 +18,6 @@ namespace HotelReservation.Models
         [Range(0, double.MaxValue, ErrorMessage = "El campo Precio debe ser un valor numérico válido.")]
         public float Precio { get; set; }
         [Required(ErrorMessage = "El campo Disponibilidad es obligatorio.")]
-        public DateTime Disponibilidad { get; set; }
+        public int Disponibilidad { get; set; }
     }
 }

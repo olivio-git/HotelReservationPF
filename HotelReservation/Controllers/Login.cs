@@ -54,6 +54,7 @@ namespace HotelReservation.Controllers
         }
         public IActionResult DeleteSession()
         {
+            Console.WriteLine("Click en boton");
             GlobalVariables.Eliminar();
             GlobalVariables.EliminarUsuario();
             return RedirectToAction("HomePage", "Home");

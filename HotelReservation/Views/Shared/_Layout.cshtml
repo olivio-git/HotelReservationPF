@@ -14,53 +14,56 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">HotelReservation</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">HANNA</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
+                    <ul class="navbar-nav flex-grow-1 navbar-styles-links">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="HomePage">Home</a>
+                            <a class="nav-link btn text-dark" asp-area="" asp-controller="Home" asp-action="HomePage">Home</a>
                         </li>
                         @if(!string.IsNullOrEmpty(GlobalVariables.StateGlobal) 
                         && GlobalVariables.usuario.Idrol==1){
                             <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link btn text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Habitacion" asp-action="Index">Habitaciones</a>
+                            <a class="nav-link btn text-dark" asp-area="" asp-controller="Habitacion" asp-action="Index">Habitaciones</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Servicio" asp-action="Index">Servicios</a>
+                            <a class="nav-link btn text-dark" asp-area="" asp-controller="Servicio" asp-action="Index">Servicios</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Persona" asp-action="Index">Personas</a>
+                            <a class="nav-link btn text-dark" asp-area="" asp-controller="Persona" asp-action="Index">Personas</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Rol" asp-action="Index">Roles</a>
+                            <a class="nav-link btn text-dark" asp-area="" asp-controller="Rol" asp-action="Index">Roles</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Promocion" asp-action="Index">Promociones</a>
+                            <a class="nav-link btn text-dark" asp-area="" asp-controller="Promocion" asp-action="Index">Promociones</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Usuario" asp-action="Index">Usuarios</a>
+                            <a class="nav-link btn text-dark" asp-area="" asp-controller="Usuario" asp-action="Index">Usuarios</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Tipo" asp-action="Index">Tipos</a>
+                            <a class="nav-link btn text-dark" asp-area="" asp-controller="Tipo" asp-action="Index">Tipos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="ServicioHabitacions" asp-action="Index">Servicion-Habitacion</a>
+                            <a class="nav-link btn text-dark" 
+                            asp-area="" 
+                            asp-controller="ServicioHabitacions" 
+                            asp-action="Index">S.Habitacion</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Reserva" asp-action="Index">Reservas</a>
+                            <a class="nav-link btn text-dark" asp-area="" asp-controller="Reserva" asp-action="Index">Reservas</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="PromocionReserva" asp-action="Index">Promocion-Reserva</a>
+                            <a class="nav-link btn text-dark" asp-area="" asp-controller="PromocionReserva" asp-action="Index">P.Reserva</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Recibo" asp-action="Index">Recibos</a>
+                            <a class="nav-link btn text-dark" asp-area="" asp-controller="Recibo" asp-action="Index">Recibos</a>
                         </li>
                         }
                     </ul>
@@ -68,11 +71,37 @@
                 <div id="loginContainer">
                      @if (!string.IsNullOrEmpty(GlobalVariables.StateGlobal))
                     {
-                        <p>Bienvenido, @GlobalVariables.usuario.Correo</p>
-                         <a asp-area=""
-                            asp-controller="Login"
-                            asp-action="DeleteSession"
-                            class="btn btn-primary">Cerrar Sesion</a>
+                        <div class="perfil">
+                        @if(GlobalVariables.usuario.Imagen == "")
+                        {
+                            <img
+                            title="@GlobalVariables.usuario.Correo"
+                            id="imgperfil" src="~/imagenes/avatar.png" class="img-avatar" alt="">
+                        }
+                        else
+                        {
+                            <img 
+                            title="@GlobalVariables.usuario.Correo"
+                            id="imgperfil" src="@GlobalVariables.usuario.Imagen" class="img-avatar" alt="">
+                        }
+                        <div
+                            id="btncerrar"
+                            class="d-none" 
+                        >
+                                <a 
+                                asp-area=""
+                                asp-controller=""
+                                asp-action=""
+                                >Ver el Perfil</a>
+                                <a 
+                            asp-area="" 
+                            asp-controller="Login" 
+                            asp-action="DeleteSession" 
+                            class="btn btn-delete-session" 
+                            >Cerrar Sesion</a>
+                        </div>
+                        
+                        </div>
                     }
                     else
                     {
@@ -87,6 +116,7 @@
             @RenderBody()
         </main>
     </div>
+
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2023 - HotelReservation - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
@@ -96,10 +126,16 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     <script>
-        
+        let img = document.getElementById("imgperfil");
+        let btncerrar = document.getElementById("btncerrar");
+        img.addEventListener("click", function() {
+        if (btncerrar.classList.contains("d-none")) {
+        btncerrar.classList.remove("d-none");
+        } else {
+        btncerrar.classList.add("d-none");
+        }
+});
     </script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
-
-                    @* <a asp-area="" asp-controller="Usuario" asp-action="Create" class="btn btn-primary">Registrar</a>  *@
