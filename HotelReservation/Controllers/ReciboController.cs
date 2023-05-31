@@ -31,13 +31,18 @@ namespace HotelReservation.Controllers
             }
 
             var recibo = await _context.Recibos
-                .Include(r => r.Reserva)
+                .Include(r => r.Reserva.Habitacion)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (recibo == null)
             {
                 return NotFound();
             }
-            //ViewData["precio"] = _context.Reservas.Include(x => x.Habitacion.tipo).Sum(x=>x.Habitacion.tipo.Precio);
+            var reserba = _context.Recibos.Include(x => x.Reserva.Habitacion.tipo).Include(x=>x.Reserva.Usuario.Persona).FirstOrDefault(x=>x.Id == id);
+            if (reserba != null)
+            {
+                ViewData["lista"] = _context.ServicioHabitaciones.Include(x => x.Servicio).Where(y => y.tipo.Id == reserba.Reserva.Habitacion.tipo.Id).Where(z => z.Estado == true);
+                ViewData["habitacion"] = reserba; 
+            }
             return View(recibo);
         }
         public IActionResult Create()
