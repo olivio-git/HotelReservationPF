@@ -5,7 +5,7 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Detalles</h1>
+@*<h1>Detalles</h1>
 <h1>@ViewBag.precio</h1>
 <div>
     <h4>Recibo</h4>
@@ -28,4 +28,146 @@
 <div>
     <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-secondary">Editar</a> |
     <a asp-action="Index" class="btn btn-info">Regresar</a>
+</div>
+*@
+
+
+
+<div bgcolor="#f6f6f6" style="color: #333; height: 100%; width: 100%;" height="100%" width="100%">
+    <table bgcolor="#ffffff" cellspacing="0" style="border-collapse: collapse; padding: 40px; width: 100%;" width="100%">
+        <tbody>
+            <tr>
+                <td width="5px" style="padding: 0;"></td>
+                <td style="clear: both; display: block; margin: 0 auto; max-width: 600px; padding: 10px 0;">
+                    <table width="100%" cellspacing="0" style="border-collapse: collapse;">
+                        <tbody>
+                            <tr>
+                                <td style="padding: 0;">
+                                    <a href="#"
+                                       style="color: #348eda;"
+                                       target="_blank">
+                                        <img src="https://www.upds.edu.bo/wp-content/uploads/2020/10/logotipo-upds-azul-1.png"
+                                             alt="Bootdey.com"
+                                             style="height: 50px; max-width: 100%; width: 157px;"
+                                             height="50"
+                                             width="157" />
+                                    </a>
+                                </td>
+                                <td style="color: #999; font-size: 12px; padding: 0; text-align: right;" align="right">
+                                    Bootdey<br />
+                                    Invoice #3440952<br />
+                                    August 04, 2023
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+                <td width="5px" style="padding: 0;"></td>
+            </tr>
+
+            <tr>
+                <td width="5px" style="padding: 0;"></td>
+                <td bgcolor="#FFFFFF" style="border: 1px solid #000; clear: both; display: block; margin: 0 auto; max-width: 600px; padding: 0;">
+                    <table width="100%" style="background: #f9f9f9; border-bottom: 1px solid #eee; border-collapse: collapse; color: #999;">
+                        <tbody>
+                            <tr>
+                                @{
+                                    float total = ViewBag.habitacion.Reserva.Habitacion.tipo.Precio;
+                                    foreach (var item in ViewBag.lista)
+                                    {
+                                        total += item.Servicio.Precio;
+                                    }
+                                    <td width="50%" style="padding: 20px;"><strong style="color: #333; font-size: 24px;">$@total</strong> Pagar</td>
+                                    <td align="right" width="50%" style="padding: 20px;">Habitacion @Html.DisplayFor(model => model.Reserva.Habitacion.Codigo)</td>
+                                }
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+                <td style="padding: 0;"></td>
+                <td width="5px" style="padding: 0;"></td>
+            </tr>
+            <tr>
+                <td width="5px" style="padding: 0;"></td>
+                <td style="border: 1px solid #000; border-top: 0; clear: both; display: block; margin: 0 auto; max-width: 600px; padding: 0;">
+                    <table cellspacing="0" style="border-collapse: collapse; border-left: 1px solid #000; margin: 0 auto; max-width: 600px;">
+                        <tbody>
+                            <tr>
+                                <td valign="top" style="padding: 20px;">
+                                    <h3 style="
+                                            border-bottom: 1px solid #000;
+                                            color: #000;
+                                            font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+                                            font-size: 18px;
+                                            font-weight: bold;
+                                            line-height: 1.2;
+                                            margin: 0;
+                                            margin-bottom: 15px;
+                                            padding-bottom: 5px;
+                                        ">
+                                        Recibo
+                                    </h3>
+                                    <table cellspacing="0" style="border-collapse: collapse; margin-bottom: 40px;">
+                                        <tbody>
+                                            <tr>
+                                                <td style="padding: 5px 0;">@ViewBag.habitacion.Reserva.Habitacion.tipo.Nombre</td>
+                                                <td align="right" style="padding: 5px 0;">$@ViewBag.habitacion.Reserva.Habitacion.tipo.Precio</td>
+                                            </tr>
+                                            <tr>
+                                                <td style="padding: 5px 0;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                                <td align="right" style="padding: 5px 0;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                            </tr>
+                                            @{
+                                                foreach (var item in ViewBag.lista)
+                                                {
+                                                    <tr>
+                                                        <td style="padding: 5px 0;">@item.Servicio.Nombre</td>
+                                                        <td align="right" style="padding: 5px 0;">$@item.Servicio.Precio</td>
+                                                    </tr>
+                                                }
+                                            }
+                                            <tr>
+                                                <td style="border-bottom: 2px solid #000; border-top: 2px solid #000; font-weight: bold; padding: 5px 0;">Monto Total</td>
+                                                <td align="right" style="border-bottom: 2px solid #000; border-top: 2px solid #000; font-weight: bold; padding: 5px 0;">$@total</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+                <td width="5px" style="padding: 0;"></td>
+            </tr>
+
+            <tr style="color: #666; font-size: 12px;">
+                <td width="5px" style="padding: 10px 0;"></td>
+                <td style="clear: both; display: block; margin: 0 auto; max-width: 600px; padding: 10px 0;">
+                    <table width="100%" cellspacing="0" style="border-collapse: collapse;">
+                        <tbody>
+                            <tr>
+                                <td width="40%" valign="top" style="padding: 10px 0;">
+                                    <h4 style="margin: 0;">@Html.DisplayFor(model => model.Reserva.Usuario.Persona.Nombre) @Html.DisplayFor(model => model.Reserva.Usuario.Persona.Apellido)</h4>
+                                    <p style="color: #666; font-size: 12px; font-weight: normal; margin-bottom: 10px;">
+                                        <ul>
+                                            <li>Nacionalidad: @Html.DisplayFor(model => model.Reserva.Usuario.Persona.Nacionalidad)</li>
+                                            <li>Telefono: @Html.DisplayFor(model => model.Reserva.Usuario.Persona.Telefono)</li>
+                                        </ul>
+                                    </p>
+                                </td>
+                                <td width="10%" style="padding: 10px 0;">&nbsp;</td>
+                                <td width="40%" valign="top" style="padding: 10px 0;">
+                                    <h4 style="margin: 0;"><span class="il">Cebollita</span> Corp</h4>
+                                    <p style="color: #666; font-size: 12px; font-weight: normal; margin-bottom: 10px;">
+                                        <a href="#">535 Mission St., 14th Floor San Francisco, CA 94105</a>
+                                    </p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+                <td width="5px" style="padding: 10px 0;"></td>
+            </tr>
+        </tbody>
+    </table>
 </div>

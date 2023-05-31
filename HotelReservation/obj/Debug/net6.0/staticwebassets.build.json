@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z5ab+E0I1GYeH+7yVrk4qrldC/p7OUd9fTs5jdHTmUM=",
+  "Hash": "XRPwgeo7BvVCXeM7+AZF3i+gZHb7qTtfuRmLD0PXiRA=",
   "Source": "HotelReservation",
   "BasePath": "_content/HotelReservation",
   "Mode": "Default",
@@ -170,6 +170,23 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\c233112499.jpg"
     },
     {
+      "Identity": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\wwwroot\\imagenes\\d231502953.jpg",
+      "SourceId": "HotelReservation",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\wwwroot\\",
+      "BasePath": "_content/HotelReservation",
+      "RelativePath": "imagenes/d231502953.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\d231502953.jpg"
+    },
+    {
       "Identity": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\wwwroot\\imagenes\\d234839067.jpg",
       "SourceId": "HotelReservation",
       "SourceType": "Discovered",
@@ -185,6 +202,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\d234839067.jpg"
+    },
+    {
+      "Identity": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\wwwroot\\imagenes\\j233302298.jpg",
+      "SourceId": "HotelReservation",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\wwwroot\\",
+      "BasePath": "_content/HotelReservation",
+      "RelativePath": "imagenes/j233302298.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\j233302298.jpg"
     },
     {
       "Identity": "D:\\MATERIAS\\DESARROLLO DE SISTEMAS II\\clon\\HotelReservationPF\\HotelReservation\\wwwroot\\imagenes\\landingOne.png",
