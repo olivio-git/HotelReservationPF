@@ -5,11 +5,11 @@ Paquetes necesarios:
   - SqlServer
   - Microsoft.VisualStudio.Web.CodeGeneration.Design
   - Jwt "Generador de Tokkens"
- Comandos de consola para la migración:
+# Comandos de consola para la migración:
   -add-migration "Migracion"
   -update-database
     "en caso de fallo,remover migraciones: ejecutar" > remove-migration
- Comandos de consola de migración Linux:
+# Comandos de consola de migración Linux:
    -dotnet ef migrations add "nombre migracion"
    -dotnet ef database update
       * Comandos extras Linux
