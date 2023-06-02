@@ -47,8 +47,16 @@ namespace HotelReservation.Controllers
                 }
                 var token = _jwtService.GenerateJwtToken(user);
                 GlobalVariables.AgregarUsuario(user);
-                GlobalVariables.Agregar(token); //guardamos el token en nuestra variable global
-                return RedirectToAction("HomePage", "Home");
+                GlobalVariables.Agregar(user.Correo); //guardamos el token en nuestra variable global
+                if(!string.IsNullOrEmpty(GlobalVariables.StateGlobal)
+                    && GlobalVariables.usuario.Idrol == 1)
+                {
+                    return RedirectToAction("HomePage", "Home");
+                }
+                else
+                {
+                    return RedirectToAction("HomeClient");
+                }
             }
             return View(usuario);
         }
@@ -57,13 +65,26 @@ namespace HotelReservation.Controllers
             Console.WriteLine("Click en boton");
             GlobalVariables.Eliminar();
             GlobalVariables.EliminarUsuario();
+            GlobalVariables.EliminarPersona();
             return RedirectToAction("HomePage", "Home");
 
         }
-        [HttpGet]
-        public string Cargar()
+        [HttpPost]
+        public IActionResult Cargar(string getToken)
         {
-            return "Ok";
+            Console.WriteLine(getToken);
+            Usuario user = _context.Usuarios.Where(u => u.Correo == getToken).First();
+            if(user!=null){
+                var persona = _context.Personas.Where(p => p.Id == user.Idpersona).First();
+                GlobalVariables.AgregarUsuario(user);
+                GlobalVariables.AgregarPersona(persona);
+                return RedirectToAction("HomePage", "Home");
+            }
+            return RedirectToAction("HomePage", "Home");
+        }
+        public IActionResult HomeClient()
+        {
+            return RedirectToAction("ViewHabitations", "Habitacion");
         }
     }
 }

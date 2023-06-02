@@ -806,6 +806,8 @@ D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/o
 D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.pdb
 D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.genruntimeconfig.cache
 D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/obj/Debug/net6.0/ref/HotelReservation.dll
+<<<<<<< HEAD
+=======
 /home/olivio-gits/SistemasDeInformacion2/Pull1/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.csproj.AssemblyReference.cache
 /home/olivio-gits/SistemasDeInformacion2/Pull1/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.GeneratedMSBuildEditorConfig.editorconfig
 /home/olivio-gits/SistemasDeInformacion2/Pull1/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.AssemblyInfoInputs.cache
@@ -1073,270 +1075,806 @@ D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/o
 /home/olivio-gits/SistemasDeInformacion2/Pull1/HotelReservationPF/HotelReservation/obj/Debug/net6.0/scopedcss/projectbundle/HotelReservation.bundle.scp.css
 /home/olivio-gits/SistemasDeInformacion2/Pull1/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.csproj.CopyComplete
 /home/olivio-gits/SistemasDeInformacion2/Pull1/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.genruntimeconfig.cache
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\appsettings.json
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\HotelReservation.staticwebassets.runtime.json
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\HotelReservation.exe
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\HotelReservation.deps.json
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\HotelReservation.runtimeconfig.json
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\HotelReservation.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\HotelReservation.pdb
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Humanizer.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\MessagePack.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\MessagePack.Annotations.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.Build.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.Build.Framework.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\NuGet.Common.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\NuGet.Configuration.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\NuGet.Frameworks.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\NuGet.LibraryModel.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\NuGet.Packaging.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\NuGet.ProjectModel.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\NuGet.Protocol.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\NuGet.Versioning.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Composition.AttributedModel.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Composition.Convention.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Composition.Hosting.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Composition.Runtime.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Composition.TypedParts.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.AssemblyInfoInputs.cache
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.AssemblyInfo.cs
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.RazorAssemblyInfo.cache
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.RazorAssemblyInfo.cs
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\scopedcss\bundle\HotelReservation.styles.css
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\scopedcss\projectbundle\HotelReservation.bundle.scp.css
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.csproj.CopyComplete
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\refint\HotelReservation.dll
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.pdb
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.genruntimeconfig.cache
-C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\obj\Debug\net6.0\ref\HotelReservation.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/appsettings.json
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/HotelReservation.staticwebassets.runtime.json
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/HotelReservation.exe
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/HotelReservation.deps.json
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/HotelReservation.runtimeconfig.json
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/HotelReservation.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/HotelReservation.pdb
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/MessagePack.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/MessagePack.Annotations.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.Build.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.Build.Framework.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.NET.StringTools.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/NuGet.Common.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/NuGet.Configuration.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/NuGet.Frameworks.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/NuGet.LibraryModel.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/NuGet.Packaging.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/NuGet.ProjectModel.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/NuGet.Protocol.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/NuGet.Versioning.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Composition.Convention.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Composition.Hosting.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Composition.Runtime.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Composition.TypedParts.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Reflection.MetadataLoadContext.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.csproj.AssemblyReference.cache
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.AssemblyInfoInputs.cache
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.AssemblyInfo.cs
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.RazorAssemblyInfo.cache
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.RazorAssemblyInfo.cs
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/scopedcss/bundle/HotelReservation.styles.css
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/scopedcss/projectbundle/HotelReservation.bundle.scp.css
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.csproj.CopyComplete
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/refint/HotelReservation.dll
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.pdb
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.genruntimeconfig.cache
+C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/ref/HotelReservation.dll
+>>>>>>> 84108c4b5138cc324da9df56965eb523f442ec29
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/appsettings.Development.json
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/appsettings.json
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/HotelReservation.staticwebassets.runtime.json
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/HotelReservation
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/HotelReservation.deps.json
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/HotelReservation.runtimeconfig.json
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/HotelReservation.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ref/HotelReservation.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/HotelReservation.pdb
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Humanizer.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/MessagePack.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/MessagePack.Annotations.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.Build.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.Build.Framework.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.NET.StringTools.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/NuGet.Common.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/NuGet.Configuration.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/NuGet.Frameworks.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/NuGet.LibraryModel.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/NuGet.Packaging.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/NuGet.ProjectModel.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/NuGet.Protocol.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/NuGet.Versioning.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Composition.Convention.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Composition.Hosting.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Composition.Runtime.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Reflection.MetadataLoadContext.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.csproj.AssemblyReference.cache
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.GeneratedMSBuildEditorConfig.editorconfig
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.AssemblyInfoInputs.cache
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.AssemblyInfo.cs
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.csproj.CoreCompileInputs.cache
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.MvcApplicationPartsAssemblyInfo.cache
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.RazorAssemblyInfo.cache
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.RazorAssemblyInfo.cs
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/Debug/net6.0/staticwebassets.build.json
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/Debug/net6.0/staticwebassets.development.json
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/Debug/net6.0/scopedcss/bundle/HotelReservation.styles.css
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/Debug/net6.0/scopedcss/projectbundle/HotelReservation.bundle.scp.css
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.csproj.CopyComplete
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/Debug/net6.0/ref/HotelReservation.dll
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.pdb
+/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.genruntimeconfig.cache
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\appsettings.Development.json
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\appsettings.json
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\HotelReservation.staticwebassets.runtime.json
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\HotelReservation.exe
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\HotelReservation.deps.json
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\HotelReservation.runtimeconfig.json
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\HotelReservation.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\HotelReservation.pdb
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Humanizer.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\MessagePack.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.Build.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\NuGet.Common.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\Stripe.net.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.csproj.AssemblyReference.cache
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.GeneratedMSBuildEditorConfig.editorconfig
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.AssemblyInfoInputs.cache
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.AssemblyInfo.cs
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.csproj.CoreCompileInputs.cache
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.MvcApplicationPartsAssemblyInfo.cache
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.RazorAssemblyInfo.cache
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.RazorAssemblyInfo.cs
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\staticwebassets.build.json
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\staticwebassets.development.json
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\scopedcss\bundle\HotelReservation.styles.css
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\scopedcss\projectbundle\HotelReservation.bundle.scp.css
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.csproj.CopyComplete
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\refint\HotelReservation.dll
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.pdb
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\HotelReservation.genruntimeconfig.cache
+D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\obj\Debug\net6.0\ref\HotelReservation.dll

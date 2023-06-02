@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj": {}
+    "D:\\RONALD\\DESARROLLO DE_SISTEMAS II\\ActualizacionPF\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj": {
+    "D:\\RONALD\\DESARROLLO DE_SISTEMAS II\\ActualizacionPF\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj",
+        "projectUniqueName": "D:\\RONALD\\DESARROLLO DE_SISTEMAS II\\ActualizacionPF\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj",
         "projectName": "HotelReservation",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj",
+        "projectPath": "D:\\RONALD\\DESARROLLO DE_SISTEMAS II\\ActualizacionPF\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\HotelReservationPF\\HotelReservation\\obj\\",
+        "outputPath": "D:\\RONALD\\DESARROLLO DE_SISTEMAS II\\ActualizacionPF\\HotelReservationPF\\HotelReservation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,6 +57,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.13, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[41.19.0, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",

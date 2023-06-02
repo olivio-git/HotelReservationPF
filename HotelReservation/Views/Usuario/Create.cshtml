@@ -1,18 +1,12 @@
-﻿@model HotelReservation.Models.Usuario
-
+@model HotelReservation.Models.Usuario
 @{
+    Layout = "~/Views/Shared/_LayoutRegister.cshtml";
     ViewData["Title"] = "Create";
-    Layout = "~/Views/Shared/_Layout.cshtml";
 }
-
-<h1>Agregar</h1>
-
-<h4>Usuario</h4>
-<hr />
 <div class="row">
-    <div class="col-md-6">
-        <form method="post" asp-action="Create" enctype="multipart/form-data">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="col-md-12">
+        <form asp-action="Create">
+            <div asp-asp-validation-summary="ModelOnly" class="txt-danger"></div>
             <div class="form-group">
                 <label asp-for="Correo" class="control-label"></label>
                 <input asp-for="Correo" class="form-control" />

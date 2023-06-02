@@ -1,0 +1,8 @@
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutCliente.cshtml";
+}
+<h1>Boton para ir a pagos</h1>
+<form asp-action="CreateCheckoutSession" method="POST">
+    <button type="submit">Checkout</button>
+</form>

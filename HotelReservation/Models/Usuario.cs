@@ -2,9 +2,21 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel;
 using System.Net.Mail;
+using System.Security.Claims;
 
 namespace HotelReservation.Models
 {
+    public static class RoleClaimExtention
+        {
+        public static IEnumerable<Claim> GetClaims(this Usuario usuario)
+        {
+            var result = new List<Claim>
+            {
+                new(ClaimTypes.Email, usuario.Correo),
+            };
+            return result;
+        }
+        }
     public class Usuario
     {
         [Key]
@@ -33,6 +45,8 @@ namespace HotelReservation.Models
         [NotMapped]
         [Display(Name = "Imagen")]
         public IFormFile IMGarchivo { get; set; }
+
+        
     }
 
 }

@@ -234,5 +234,10 @@ namespace HotelReservation.Controllers
         {
             return (_context.Habitaciones?.Any(e => e.Id == id)).GetValueOrDefault();
         }
+        public async Task<IActionResult> ViewHabitations()
+        {
+            var appDbContext = _context.Habitaciones.Include(h => h.tipo);
+            return View(await appDbContext.ToListAsync());
+        }
     }
 }

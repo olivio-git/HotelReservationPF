@@ -8,277 +8,297 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HotelReservation
 build_property.RootNamespace = HotelReservation
-build_property.ProjectDir = C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation\
+build_property.ProjectDir = D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Usuario\Desktop\HotelReservationPF\HotelReservation
+build_property.MSBuildProjectDirectory = D:\RONALD\DESARROLLO DE_SISTEMAS II\ActualizacionPF\HotelReservationPF\HotelReservation
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Habitacion/Create.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Habitacion/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvblxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Habitacion/Delete.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Habitacion/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvblxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Habitacion/Details.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Habitacion/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvblxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Habitacion/Edit.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Habitacion/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvblxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Habitacion/Index.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Habitacion/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Home/HomePage.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Habitacion/ViewHabitations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaXRhY2lvblxWaWV3SGFiaXRhdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Home/HomePage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Home/Index.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Home/Privacy.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Login/Create.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Login/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/perfil/Perfil.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Payments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/perfil/Perfil.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyZmlsXFBlcmZpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Persona/Create.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Persona/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Persona/Delete.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Persona/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Persona/Details.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Persona/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Persona/Edit.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Persona/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Persona/Index.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Persona/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/PromocionReserva/Create.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/PromocionReserva/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uUmVzZXJ2YVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/PromocionReserva/Delete.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/PromocionReserva/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uUmVzZXJ2YVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/PromocionReserva/Details.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/PromocionReserva/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uUmVzZXJ2YVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/PromocionReserva/Edit.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/PromocionReserva/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uUmVzZXJ2YVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/PromocionReserva/Index.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/PromocionReserva/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uUmVzZXJ2YVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Promocion/Create.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Promocion/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Promocion/Delete.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Promocion/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Promocion/Details.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Promocion/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Promocion/Edit.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Promocion/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Promocion/Index.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Promocion/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW9jaW9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Recibo/Create.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Recibo/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaWJvXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Recibo/Delete.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Recibo/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaWJvXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Recibo/Details.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Recibo/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaWJvXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Recibo/Edit.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Recibo/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaWJvXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Recibo/Index.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Recibo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaWJvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Reserva/Create.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Registro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Registro/Usuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9cVXN1YXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Reserva/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Reserva/Delete.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Reserva/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Reserva/Details.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Reserva/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Reserva/Edit.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Reserva/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Reserva/Index.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Reserva/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Rol/Create.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Rol/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Rol/Delete.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Rol/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Rol/Details.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Rol/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Rol/Edit.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Rol/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Rol/Index.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Rol/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Create.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9IYWJpdGFjaW9uc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Delete.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9IYWJpdGFjaW9uc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Details.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9IYWJpdGFjaW9uc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Edit.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9IYWJpdGFjaW9uc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Index.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/ServicioHabitacions/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9IYWJpdGFjaW9uc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Servicio/Create.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Servicio/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Servicio/Delete.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Servicio/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Servicio/Details.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Servicio/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Servicio/Edit.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Servicio/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Servicio/Index.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Servicio/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Shared/Error.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Shared/_LayoutLandingPage.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Shared/_LayoutCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDbGllbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Shared/_LayoutLandingPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMYW5kaW5nUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Shared/_LayoutRegister.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Shared/_LayoutRegister.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Tipo/Create.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Tipo/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Tipo/Delete.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Tipo/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Tipo/Details.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Tipo/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Tipo/Edit.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Tipo/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Tipo/Index.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Tipo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Usuario/Create.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Usuario/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Usuario/Delete.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Usuario/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Usuario/Details.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Usuario/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Usuario/Edit.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Usuario/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Usuario/Index.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Usuario/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/_ViewImports.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/_ViewStart.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/Views/Shared/_Layout.cshtml]
+[D:/RONALD/DESARROLLO DE_SISTEMAS II/ActualizacionPF/HotelReservationPF/HotelReservation/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-44whd80hbb

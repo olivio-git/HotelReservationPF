@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WnMaHh1/LDGXQjyd2NKCNZ0fQH09SD5wRVU1wAKi1Qo7C1p4Vr52p+hg/QaRywtmvPJFsUq0sFpt1hiSSpQyfw==",
+  "dgSpecHash": "U8yLdHbyrhABuRz8JzZU7s5PHN3cuxlM+97MJwwRPB8SK4BZsFuy2/jDo3N9I5G7wXyaCNm9Se8d0FjvlKlcyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj",
+  "projectFilePath": "D:\\RONALD\\DESARROLLO DE_SISTEMAS II\\ActualizacionPF\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
@@ -96,6 +96,7 @@
     "C:\\Users\\Usuario\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\stripe.net\\41.19.0\\stripe.net.41.19.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
