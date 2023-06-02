@@ -1,0 +1,188 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-lx-12">
+            <div class="card">
+                <div class="card-body">
+                    <div class="row justify-content-center mt-4">
+                        <div class="col-xl-5 col-lg-8">
+                            <div class="text-center">
+                                <h3>Todo lo que necesitas saber antes de reservar</h3>
+                                <p class="text-muted">
+                                    Encuentra respuestas a las preguntas más comunes antes de reservar. Descubre información sobre horarios, políticas, precios y mucho más. Si no encuentras la respuesta que buscas, contáctanos y estaremos encantados de ayudarte.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- end col -->
+                    </div>
+                    <!-- end row -->
+                    <div class="row justify-content-center mt-5">
+                        <div class="col-9">
+                            <ul class="nav nav-tabs  nav-tabs-custom nav-justified justify-content-center faq-tab-box" id="pills-tab" role="tablist">
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link active" id="pills-genarel-tab" data-bs-toggle="pill" data-bs-target="#pills-genarel" type="button" role="tab" aria-controls="pills-genarel" aria-selected="true">
+                                        <span class="font-size-16">Preguntas Generales</span>
+                                    </button>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link" id="pills-privacy_policy-tab" data-bs-toggle="pill" data-bs-target="#pills-privacy_policy" type="button" role="tab" aria-controls="pills-privacy_policy" aria-selected="false">
+                                        <span class="font-size-16">Políticas de Privacidad</span>
+                                    </button>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link" id="pills-teachers-tab" data-bs-toggle="pill" data-bs-target="#pills-pricing_plan" type="button" role="tab" aria-controls="pills-pricing_plan" aria-selected="false">
+
+                                        <span class="font-size-16">Precios y Planes</span>
+                                    </button>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-9">
+                            <div class="tab-content pt-3" id="pills-tabContent">
+                                <div class="tab-pane fade active show" id="pills-genarel" role="tabpanel" aria-labelledby="pills-genarel-tab">
+                                    <div class="row g-4 mt-2">
+                                        <div class="col-lg-6">
+                                            <h5>¿Cuál es el horario de check-in y check-out?</h5>
+                                            <p class ="lg-base">
+                                                El horario de check-in comienza a las 3:00 PM y el check-out es hasta las 12:00 PM del día siguiente. Si necesitas un check-in temprano o un check-out tardío, por favor, ponte en contacto con nuestro equipo de recepción para verificar la disponibilidad.
+                                            </p>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <h5>¿Se permite fumar en las habitaciones?</h5>
+                                            <p class="lg-base">
+                                                No, todas nuestras habitaciones son estrictamente para no fumadores. Está prohibido fumar en cualquier área de nuestras instalaciones. Si se descubre que alguien ha fumado en la habitación, se aplicará una tarifa de limpieza adicional.
+                                            </p>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <h5>¿Aceptan mascotas en el hotel?</h5>
+                                            <p class="lg-base">
+                                                Lamentablemente, no permitimos mascotas en nuestras instalaciones, excepto perros guía para personas con discapacidad. Si necesitas información sobre alojamientos que acepten mascotas en las cercanías, nuestro personal estará encantado de ayudarte con recomendaciones.
+                                            </p>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <h5> ¿Cuál es la política de cancelación de reservas?</h5>
+                                            <p class="lg-base">
+                                                Nuestra política de cancelación varía dependiendo del tipo de reserva y la tarifa seleccionada. Generalmente, ofrecemos un período de cancelación gratuita de 48 horas antes de la fecha de llegada. Te recomendamos revisar los detalles específicos al momento de hacer tu reserva o ponerte en contacto con nuestro equipo de atención al cliente para obtener información detallada.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="tab-pane fade" id="pills-privacy_policy" role="tabpanel" aria-labelledby="pills-privacy_policy-tab">
+                                    <div class="row g-4 mt-2">
+                                        <div class="col-lg-6">
+                                            <h5>¿Cómo protegen mi información personal?</h5>
+                                            <p class="lg-base">
+                                                En nuestro hotel, nos tomamos en serio la protección de tu información personal. Utilizamos medidas de seguridad tecnológicas y procedimientos internos para garantizar la confidencialidad de tus datos. Solo recopilamos la información necesaria para procesar tu reserva y nunca compartimos tus datos con terceros sin tu consentimiento.
+                                            </p>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <h5> ¿Qué tipo de información personal se recopila durante el proceso de reserva?</h5>
+                                            <p class="lg-base">
+                                                Durante el proceso de reserva, recopilamos información como tu nombre, dirección de correo electrónico, número de teléfono y detalles de pago. Esta información se utiliza únicamente para completar tu reserva y garantizar una comunicación eficiente contigo. Nunca compartimos esta información con terceros, a menos que sea necesario para cumplir con tu reserva.
+                                            </p>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <h5>¿Utilizan cookies en su sitio web?</h5>
+                                            <p class="lg-base">
+                                                Sí, utilizamos cookies en nuestro sitio web para mejorar tu experiencia de reserva. Las cookies son pequeños archivos que se almacenan en tu dispositivo y nos permiten recordar tus preferencias y personalizar tu experiencia. Puedes gestionar la configuración de cookies en tu navegador y optar por rechazarlas, aunque esto podría afectar algunas funciones de nuestro sitio web.
+                                            </p>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <h5>¿Cuánto tiempo se conserva mi información personal?</h5>
+                                            <p class="lg-base">
+                                                Conservamos tu información personal durante el tiempo necesario para cumplir con nuestras obligaciones legales y proporcionarte servicios relacionados con tu reserva. Si deseas que eliminemos tu información después de tu estancia, por favor contáctanos y estaremos encantados de atender tu solicitud.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="pills-pricing_plan" role="tabpanel">
+                                    <div class="row g-4 mt-4">
+                                        <div class="col-lg-6">
+                                            <h5>¿Cuáles son los precios de las habitaciones en su hotel?</h5>
+                                            <p class="lg-base">
+                                                Nuestros precios de habitaciones varían según la temporada, la categoría de la habitación y la duración de la estadía. Te recomendamos verificar la disponibilidad y obtener los precios más actualizados visitando nuestra página de reservas en línea o contactando a nuestro equipo de atención al cliente.
+                                            </p>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <h5>¿Ofrecen descuentos especiales para estancias prolongadas o reservas grupales?</h5>
+                                            <p class="lg-base">
+                                                Sí, ofrecemos descuentos especiales para estancias prolongadas y reservas grupales. Si planeas quedarte por un período prolongado o tienes un grupo grande, te invitamos a comunicarte con nuestro equipo de reservas para obtener información sobre los descuentos disponibles y las tarifas especiales.
+                                            </p>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <h5>¿Cuáles son los servicios y comodidades incluidos en el precio de la habitación?</h5>
+                                            <p class="lg-base">
+                                                Nuestro hotel ofrece una variedad de servicios y comodidades incluidos en el precio de la habitación, como acceso Wi-Fi gratuito, desayuno continental, servicio de limpieza diario y acceso al gimnasio. Además, disponemos de otras opciones adicionales, como servicio de habitaciones y estacionamiento, que pueden tener un costo adicional.
+                                            </p>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <h5>¿Cuál es la política de pago y cancelación para las reservas?</h5>
+                                            <p class="lg-base">
+                                              Para garantizar tu reserva, requerimos un depósito o la información de tu tarjeta de crédito al momento de hacer la reserva. El pago completo se realiza al momento del check-in. En cuanto a la cancelación, ofrecemos diferentes políticas dependiendo del tipo de reserva y la tarifa seleccionada. Te recomendamos revisar los detalles específicos al momento de hacer tu reserva o consultar con nuestro equipo de atención al cliente.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end row -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    /*body {
+        background-color: #eee;
+        margin-top: 20px;
+    }*/
+
+    .card {
+        box-shadow: 0 20px 27px 0 rgb(0 0 0 / 5%);
+    }
+
+    .nav-tabs-custom .nav-item .nav-link.active {
+        color: #6c6ff5;
+    }
+
+    .nav-tabs-custom .nav-item .nav-link {
+        border: none;
+    }
+/*
+    /*.text-muted {
+        color: #8ca3bd !important;
+    }*/*/
+
+    .nav-tabs-custom .nav-item {
+        position: relative;
+        color: #271050;
+    }
+
+        .nav-tabs-custom .nav-item .nav-link.active:after {
+            -webkit-transform: scale(1);
+            transform: scale(1);
+        }
+
+        .nav-tabs-custom .nav-item .nav-link::after {
+            content: "";
+            background: #6c6ff5;
+            height: 2px;
+            position: absolute;
+            width: 100%;
+            left: 0;
+            bottom: -1px;
+            -webkit-transition: all 250ms ease 0s;
+            transition: all 250ms ease 0s;
+            -webkit-transform: scale(0);
+            transform: scale(0);
+        }
+</style>
+

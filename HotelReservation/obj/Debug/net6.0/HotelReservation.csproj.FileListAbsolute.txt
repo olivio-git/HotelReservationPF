@@ -806,7 +806,6 @@ D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/o
 D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.pdb
 D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.genruntimeconfig.cache
 D:/MATERIAS/DESARROLLO DE SISTEMAS II/clon/HotelReservationPF/HotelReservation/obj/Debug/net6.0/ref/HotelReservation.dll
-<<<<<<< HEAD
 =======
 /home/olivio-gits/SistemasDeInformacion2/Pull1/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.csproj.AssemblyReference.cache
 /home/olivio-gits/SistemasDeInformacion2/Pull1/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.GeneratedMSBuildEditorConfig.editorconfig
@@ -1342,7 +1341,6 @@ C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/re
 C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.pdb
 C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/HotelReservation.genruntimeconfig.cache
 C:/Users/Usuario/Desktop/HotelReservationPF/HotelReservation/obj/Debug/net6.0/ref/HotelReservation.dll
->>>>>>> 84108c4b5138cc324da9df56965eb523f442ec29
 /home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/appsettings.Development.json
 /home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/appsettings.json
 /home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/bin/Debug/net6.0/HotelReservation.staticwebassets.runtime.json
