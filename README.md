@@ -22,3 +22,4 @@
 ### Comandos extras en Linux:
 - dotnet ef clean "comando para limpiar proyecto"
 - dotnet ef build "comando necesario para buildear despues de limpiar"
+- dotnet run "para poder compilar proyecto"
