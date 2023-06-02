@@ -23,7 +23,9 @@ namespace HotelReservation.Controllers
         }
         public IActionResult Perfil()
         {
-            return View();
+            var user = GlobalVariables.usuario;
+            var p = _context.Personas.Where(pe => pe.Id == user.Idpersona).FirstOrDefault();
+            return View(p);
         }
         [HttpPost]
         [ValidateAntiForgeryToken]

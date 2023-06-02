@@ -1,6 +1,34 @@
+@model HotelReservation.Models.Persona
 @{
     ViewData["Title"] = "Perfil";
 }
+<div class="row">
+    <div class="col-6">
+        hola soy el perfil Isquierdo
+    </div>
+    <div class="col-6">
+        hola soy el perfil Derecho
+    </div>
+</div>
 <h1>
-    Hola soy el perfil xd!
+    @GlobalVariables.usuario.Correo
 </h1>
+<h1>
+    @Html.DisplayFor(model=>model.Nombre)
+</h1>
+<h1>
+    @Html.DisplayFor(model=>model.Apellido)
+</h1>
+<h1>
+    @Html.DisplayFor(model=>model.Ci)
+</h1>
+<h1>
+    @Html.DisplayFor(model=>model.Nacionalidad)
+</h1>
+<h1>
+    @Html.DisplayFor(model=>model.Telefono)
+</h1>
+<h1>
+    @GlobalVariables.usuario.Contrasena
+</h1>
+<img src="~/imagenes/@GlobalVariables.usuario.Imagen" />

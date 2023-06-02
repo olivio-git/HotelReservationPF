@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="~/HotelReservation.styles.css" asp-append-version="true" />
 </head>
 <body>  
+    <input type="hidden" value="@GlobalVariables.StateGlobal" id="token" />
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
@@ -21,9 +22,18 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1 navbar-styles-links">
+                        @if(!string.IsNullOrEmpty(GlobalVariables.StateGlobal) 
+                        && GlobalVariables.usuario.Idrol==2){
                         <li class="nav-item">
                             <a class="nav-link btn text-dark" asp-area="" asp-controller="Home" asp-action="HomePage">Home</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link btn text-dark" asp-area="" asp-controller="Home" asp-action="HomePage">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link btn text-dark" asp-area="" asp-controller="Home" asp-action="HomePage">Home</a>
+                        </li>
+                        }
                         @if(!string.IsNullOrEmpty(GlobalVariables.StateGlobal) 
                         && GlobalVariables.usuario.Idrol==1){
                             <li class="nav-item">
@@ -82,7 +92,7 @@
                         {
                             <img 
                             title="@GlobalVariables.usuario.Correo"
-                            id="imgperfil" src="@GlobalVariables.usuario.Imagen" class="img-avatar" alt="">
+                            id="imgperfil" src="~/imagenes/@GlobalVariables.usuario.Imagen" class="img-avatar" alt="">
                         }
                         <div
                             id="btncerrar"
@@ -90,14 +100,15 @@
                         >
                                 <a 
                                 asp-area=""
-                                asp-controller=""
-                                asp-action=""
+                                asp-controller="perfil"
+                                asp-action="Perfil"
                                 >Ver el Perfil</a>
                                 <a 
                             asp-area="" 
                             asp-controller="Login" 
                             asp-action="DeleteSession" 
-                            class="btn btn-delete-session" 
+                            class="btn btn-delete-session"
+                            id="btn-cerrar-sesion" 
                             >Cerrar Sesion</a>
                         </div>
                         
@@ -126,15 +137,38 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     <script>
-        let img = document.getElementById("imgperfil");
+        let token= document.getElementById("token")
+
+        let getToken= localStorage.getItem("token")
+
+        if(token.value && !getToken){
+
+            localStorage.setItem("token", token.value)
+        }
+        if (getToken && !token.value) {
+        const formData = new FormData(); // Crear un objeto FormData
+        formData.append("getToken", getToken); // Agregar el valor de getToken al FormData
+        
+            fetch("https://localhost:7065/Login/Cargar", {
+                method: "POST",
+                body: formData // Enviar el FormData como cuerpo de la solicitud POST
+            }); // Obtener el texto de la respuesta
+           // Imprimir el contenido de la respuesta (el token)
+        }
         let btncerrar = document.getElementById("btncerrar");
-        img.addEventListener("click", function() {
+        let img = document.getElementById("imgperfil");
+
+        img?(img.addEventListener("click", function() {
         if (btncerrar.classList.contains("d-none")) {
         btncerrar.classList.remove("d-none");
         } else {
         btncerrar.classList.add("d-none");
         }
-});
+        })):(null)
+        let btnsesion=document.getElementById("btn-cerrar-sesion"); //btn para borrar token del localstorage!
+        btnsesion?(btnsesion.addEventListener("click",()=>{
+            localStorage.removeItem("token");
+        })):(null)
     </script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>

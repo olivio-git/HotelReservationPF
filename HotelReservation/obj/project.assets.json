@@ -1755,6 +1755,19 @@
           }
         }
       },
+      "Stripe.net/41.19.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "System.Configuration.ConfigurationManager": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Stripe.net.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Stripe.net.dll": {}
+        }
+      },
       "System.AppContext/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -5828,6 +5841,29 @@
         "runtimes/ubuntu.16.10-x64/native/System.Security.Cryptography.Native.OpenSsl.so"
       ]
     },
+    "Stripe.net/41.19.0": {
+      "sha512": "k8RKFpuD169cPiyQsUivfH5EcjbFBMNQYT2MRkPpzwZo1iHu5A1+jm6btzYUSUv4bC14wY8e19HpGmhDkt1Arg==",
+      "type": "package",
+      "path": "stripe.net/41.19.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "icon.png",
+        "lib/net461/Stripe.net.dll",
+        "lib/net461/Stripe.net.xml",
+        "lib/net5.0/Stripe.net.dll",
+        "lib/net5.0/Stripe.net.xml",
+        "lib/net6.0/Stripe.net.dll",
+        "lib/net6.0/Stripe.net.xml",
+        "lib/netcoreapp3.1/Stripe.net.dll",
+        "lib/netcoreapp3.1/Stripe.net.xml",
+        "lib/netstandard2.0/Stripe.net.dll",
+        "lib/netstandard2.0/Stripe.net.xml",
+        "stripe.net.41.19.0.nupkg.sha512",
+        "stripe.net.nuspec"
+      ]
+    },
     "System.AppContext/4.3.0": {
       "sha512": "fKC+rmaLfeIzUhagxY17Q9siv/sPrjjKcfNg1Ic8IlQkZLipo8ljcaZQu4VtI4Jqbzjc2VTjzGLF6WmsRXAEgA==",
       "type": "package",
@@ -9654,28 +9690,36 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.16",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.16",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.13",
+      "Stripe.net >= 41.19.0",
       "System.IdentityModel.Tokens.Jwt >= 6.30.1"
     ]
   },
   "packageFolders": {
-    "/home/olivio-gits/.nuget/packages/": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/HotelReservation.csproj",
+      "projectUniqueName": "D:\\RONALD\\DESARROLLO DE_SISTEMAS II\\ActualizacionPF\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj",
       "projectName": "HotelReservation",
-      "projectPath": "/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/HotelReservation.csproj",
-      "packagesPath": "/home/olivio-gits/.nuget/packages/",
-      "outputPath": "/home/olivio-gits/SistemasDeInformacion2/olivioPF/HotelReservationPF/HotelReservation/obj/",
+      "projectPath": "D:\\RONALD\\DESARROLLO DE_SISTEMAS II\\ActualizacionPF\\HotelReservationPF\\HotelReservation\\HotelReservation.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "D:\\RONALD\\DESARROLLO DE_SISTEMAS II\\ActualizacionPF\\HotelReservationPF\\HotelReservation\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/olivio-gits/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -9708,6 +9752,10 @@
             "target": "Package",
             "version": "[6.0.13, )"
           },
+          "Stripe.net": {
+            "target": "Package",
+            "version": "[41.19.0, )"
+          },
           "System.IdentityModel.Tokens.Jwt": {
             "target": "Package",
             "version": "[6.30.1, )"
@@ -9723,12 +9771,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.16, 6.0.16]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -9737,7 +9779,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
