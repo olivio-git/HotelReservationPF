@@ -1,7 +1,7 @@
 # HotelReservationPF
 Proyecto final Universidad Privada Domingo Savio
 Paquetes necesarios:
-  *Microsoft.EntityFrameworkCore
+  -- Microsoft.EntityFrameworkCore
   *SqlServer
   *Microsoft.VisualStudio.Web.CodeGeneration.Design
   *Jwt "Generador de Tokkens"
