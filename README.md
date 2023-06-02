@@ -10,7 +10,7 @@
 - Microsoft.VisualStudio.Web.CodeGeneration.Design
 - Jwt "Generador de Tokens"
 
-## ⚙️ Comandos de consola para la migración:
+## ⚙️ Comandos de consola para la migración Windows:
 - add-migration "Migracion"
 - update-database
 - remove migration "en caso de fallos"
